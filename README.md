@@ -20,7 +20,7 @@ After that, add the following dependency, as well as the
 macro annotations):
 
 ```scala
-libraryDependencies += "com.yetu" %% "scala-beanutils" % "0.1.4"
+libraryDependencies += "com.yetu" %% "scala-beanutils" % "0.1.6"
 addCompilerPlugin("org.scalamacros" % "paradise" % "2.1.0" cross CrossVersion.full)
 ```
 
